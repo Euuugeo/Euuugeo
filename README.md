@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, there 👋
 
-<!--
-**Euuugeo/Euuugeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Software Engineering student interested in building practical, reliable, and human-centered AI systems.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 **B.S. in Software Engineering**, Tongji University, 2022–2026
+- 🚀 **Incoming M.S. Student in Software Engineering**, University of Science and Technology of China, starting in 2026
+- 🔬 **Research Interests:** Large Language Models, AI for Science, and Affective Computing
+- 💡 Interested in LLM fine-tuning, intelligent agents, multimodal learning, and AI-powered software systems
+- 🛠️ Working with Python, PyTorch, C++, FastAPI, Electron, and SwiftUI
+
+## Current Focus
+
+- Developing domain-specific large language models and intelligent agents
+- Exploring AI4S and multimodal learning methods
+- Building AI systems for affective computing and real-world applications
+- Improving end-to-end model training, deployment, and application development
+
+> From research prototypes to practical AI products.
